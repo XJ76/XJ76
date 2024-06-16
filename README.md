@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🏗️ Software Architect
 
 ## Skills
-- **Languages:** Python, JavaScript, Soliditym C++, Java
+- **Languages:** Python, JavaScript, Solidity, C++, Java
 - **Frameworks:** Django, React, Node.js
 
 
