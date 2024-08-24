@@ -30,8 +30,9 @@ Feel free to reach out if you want to connect or collaborate!
 
 
 ## Connect with Me
-[![LinkedIn](https://zw.linkedin.com/in/joshua-j-smith-5338041b8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://zw.linkedin.com/in/joshua-j-smith-5338041b8)
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail)](mailto:joshjsmithjr@outlook.com)
 
+
 ## Fun Fact
-⚡ I love combining technology with creativity to solve real-world problems.
+⚡ I started writting code when i was in highschool, i tought myself some python and i made a couple of django apps.
