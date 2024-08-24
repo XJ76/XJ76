@@ -17,10 +17,15 @@ Here are some ideas to get you started:
 ## About Me
 
 🚀 I'm a Full Stack Software Engineer who loves to create and innovate.
+
 💻 Passionate about coding and always excited to learn new things.
+
 🌱 I'm always looking for new challenges and opportunities to grow.
+
 🎯 Enjoy collaborating with others to build amazing projects.
+
 🌍 A big fan of exploring how technology can make the world a better place.
+
 Feel free to reach out if you want to connect or collaborate!
 
 
