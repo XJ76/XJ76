@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+JJ+Smith;Lets+Create+Something+Great!!)](https://git.io/typing-svg)
 🚀 I'm a Full Stack Software Engineer who loves to create and innovate.
 
 💻 Passionate about coding and always excited to learn new things.
