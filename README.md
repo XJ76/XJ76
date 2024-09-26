@@ -53,6 +53,13 @@ Feel free to reach out if you want to connect or collaborate!
 
 
 ### ⚙️ Services
+![Web Development](https://img.shields.io/static/v1?style=flat-square&logo=html5&logoColor=white&label=&labelColor=E34F26&message=Web%20Development&color=16171d)
+![App Development](https://img.shields.io/static/v1?style=flat-square&logo=android&logoColor=white&label=&labelColor=3DDC84&message=App%20Development&color=16171d)
+![Backend Development](https://img.shields.io/static/v1?style=flat-square&logo=node.js&logoColor=white&label=&labelColor=339933&message=Backend%20Development&color=16171d)
+![Frontend Development](https://img.shields.io/static/v1?style=flat-square&logo=react&logoColor=white&label=&labelColor=61DAFB&message=Frontend%20Development&color=16171d)
+![API Development](https://img.shields.io/static/v1?style=flat-square&logo=swagger&logoColor=white&label=&labelColor=85EA2D&message=API%20Development&color=16171d)
+![Cloud Deployment](https://img.shields.io/static/v1?style=flat-square&logo=aws&logoColor=white&label=&labelColor=232F3E&message=Cloud%20Deployment&color=16171d)
+![DevOps](https://img.shields.io/static/v1?style=flat-square&logo=docker&logoColor=white&label=&labelColor=2496ED&message=DevOps&color=16171d)
 
 
 ## Connect with Me
