@@ -71,7 +71,6 @@ Feel free to reach out if you want to connect or collaborate!
 
 ## Stats
 ![XJ76's Streak](https://github-readme-streak-stats.herokuapp.com/?user=XJ76&theme=vue-dark&hide_border=true)
-![XJ76's Stats](https://github-readme-stats.vercel.app/api?username=XJ76&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![XJ76's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XJ76&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://zw.linkedin.com/in/joshua-j-smith-5338041b8)
