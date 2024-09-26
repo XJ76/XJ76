@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 Feel free to reach out if you want to connect or collaborate!
 
 ### 📒 Languages and Frameworks
+![Python](https://img.shields.io/static/v1?style=flat-square&logo=python&logoColor=white&label=&labelColor=3776AB&message=Python&color=16171d)
 ![TailwindCSS](https://img.shields.io/static/v1?style=flat-square&logo=tailwindcss&logoColor=white&label=&labelColor=06B6D4&message=TailwindCSS&color=16171d)
-
 ![Chart.js](https://img.shields.io/static/v1?style=flat-square&logo=chartdotjs&logoColor=white&label=&labelColor=FF6384&message=Chart.js&color=16171d)
 ![CSS3](https://img.shields.io/static/v1?style=flat-square&logo=css3&logoColor=white&label=&labelColor=1572B6&message=CSS3&color=16171d)
 ![Docker](https://img.shields.io/static/v1?style=flat-square&logo=docker&logoColor=white&label=&labelColor=2496ED&message=Docker&color=16171d)
