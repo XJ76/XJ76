@@ -67,6 +67,9 @@ Feel free to reach out if you want to connect or collaborate!
 ![API Development](https://img.shields.io/static/v1?style=flat-square&logo=swagger&logoColor=white&label=&labelColor=85EA2D&message=API%20Development&color=16171d)
 ![Cloud Deployment](https://img.shields.io/static/v1?style=flat-square&logo=aws&logoColor=white&label=&labelColor=232F3E&message=Cloud%20Deployment&color=16171d)
 ![DevOps](https://img.shields.io/static/v1?style=flat-square&logo=docker&logoColor=white&label=&labelColor=2496ED&message=DevOps&color=16171d)
+
+
+## Stats
 ![XJ76's Streak](https://github-readme-streak-stats.herokuapp.com/?user=XJ76&theme=vue-dark&hide_border=true)
 ![XJ76's Stats](https://github-readme-stats.vercel.app/api?username=XJ76&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![XJ76's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XJ76&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
