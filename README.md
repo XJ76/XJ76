@@ -61,7 +61,8 @@ Feel free to reach out if you want to connect or collaborate!
 ![Cloud Deployment](https://img.shields.io/static/v1?style=flat-square&logo=aws&logoColor=white&label=&labelColor=232F3E&message=Cloud%20Deployment&color=16171d)
 ![DevOps](https://img.shields.io/static/v1?style=flat-square&logo=docker&logoColor=white&label=&labelColor=2496ED&message=DevOps&color=16171d)
 
-
+![XJ76's Stats](https://github-readme-stats.vercel.app/api?username=XJ76&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XJ76)](https://github.com/XJ76/github-readme-stats)
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://zw.linkedin.com/in/joshua-j-smith-5338041b8)
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail)](mailto:joshjsmithjr@outlook.com)
