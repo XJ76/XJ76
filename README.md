@@ -14,14 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## About Me
+## Hi there 👋 I'm JJ
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+JJ+Smith;Lets+Create+Something+Great!!)](https://git.io/typing-svg)
 
-🚀 I'm a Full Stack Software Engineer who loves to create and innovate.
+🚀 I’m a Full Stack Software Engineer with a passion for creating innovative solutions.
 
-💻 Passionate about coding and always excited to learn new things.
+💻 Coding is my craft, and I’m always exploring new technologies to push the boundaries of what’s possible.
 
-🌱 I'm always looking for new challenges and opportunities to grow.
+🌱 I thrive on challenges and continuously seek opportunities to learn and grow.
+
 ### 🌱 I’m currently learning
 
 ![Next.js](https://img.shields.io/static/v1?style=flat-square&logo=nextdotjs&logoColor=white&label=&labelColor=000000&message=Next.js&color=16171d)
@@ -52,12 +54,10 @@ Feel free to reach out if you want to connect or collaborate!
 ![Microsoft SQL Server](https://img.shields.io/static/v1?style=flat-square&logo=microsoftsqlserver&logoColor=white&label=&labelColor=CC2927&message=Microsoft%20SQL%20Server&color=16171d)
 ![MySQL](https://img.shields.io/static/v1?style=flat-square&logo=mysql&logoColor=white&label=&labelColor=4479A1&message=MySQL&color=16171d)
 ![NGINX](https://img.shields.io/static/v1?style=flat-square&logo=nginx&logoColor=white&label=&labelColor=009639&message=NGINX&color=16171d)
-![Node.js](https://img.shields.io/static/v1?style=flat-square&logo=nodedotjs&logoColor=white&label=&labelColor=CB3837&message=Node.js&color=16171d)
+![Node.js](https://img.shields.io/static/v1?style=flat-square&logo=nodedotjs&logoColor=white&label=&labelColor=339933&message=Node.js&color=16171d)
 ![PowerShell](https://img.shields.io/static/v1?style=flat-square&logo=powershell&logoColor=white&label=&labelColor=5391FE&message=PowerShell&color=16171d)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&logo=typescript&logoColor=white&label=&labelColor=3178C6&message=TypeScript&color=16171d)
 ![Java](https://img.shields.io/static/v1?style=flat-square&logo=java&logoColor=white&label=&labelColor=007396&message=Java&color=16171d)
-
-
 
 ### ⚙️ Services
 ![Web Development](https://img.shields.io/static/v1?style=flat-square&logo=html5&logoColor=white&label=&labelColor=E34F26&message=Web%20Development&color=16171d)
@@ -68,17 +68,15 @@ Feel free to reach out if you want to connect or collaborate!
 ![Cloud Deployment](https://img.shields.io/static/v1?style=flat-square&logo=aws&logoColor=white&label=&labelColor=232F3E&message=Cloud%20Deployment&color=16171d)
 ![DevOps](https://img.shields.io/static/v1?style=flat-square&logo=docker&logoColor=white&label=&labelColor=2496ED&message=DevOps&color=16171d)
 
-
 ## Stats
 ![XJ76's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XJ76&theme=tokyonight)
 ![XJ76's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XJ76&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
 
-
 ![XJ76's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XJ76&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://zw.linkedin.com/in/joshua-j-smith-5338041b8)
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail)](mailto:joshjsmithjr@outlook.com)
 
-
 ## Fun Fact
-⚡ I started writting code when i was in highschool, i tought myself some python and i made a couple of django apps.
+⚡ I started writing code in high school, where I taught myself Python and built a couple of Django apps.
