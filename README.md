@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋 I'm JJ
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+JJ+Smith;Lets+Create+Something+Great!!)](https://git.io/typing-svg)
 
