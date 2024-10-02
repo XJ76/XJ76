@@ -71,7 +71,8 @@ Feel free to reach out if you want to connect or collaborate!
 
 ## Stats
 ![XJ76's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XJ76&theme=tokyonight)
-![XJ76's GitHub Stats](https://github-readme-stats.vercel.app/apiusername=XJ76&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
+![XJ76's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XJ76&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
+
 
 ![XJ76's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XJ76&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ## Connect with Me
