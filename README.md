@@ -58,6 +58,9 @@ Feel free to reach out if you want to connect or collaborate!
 ![PowerShell](https://img.shields.io/static/v1?style=flat-square&logo=powershell&logoColor=white&label=&labelColor=5391FE&message=PowerShell&color=16171d)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&logo=typescript&logoColor=white&label=&labelColor=3178C6&message=TypeScript&color=16171d)
 ![Java](https://img.shields.io/static/v1?style=flat-square&logo=java&logoColor=white&label=&labelColor=007396&message=Java&color=16171d)
+![React](https://img.shields.io/static/v1?style=flat-square&logo=react&logoColor=white&label=&labelColor=61DAFB&message=React&color=16171d)
+![React Native](https://img.shields.io/static/v1?style=flat-square&logo=react&logoColor=white&label=&labelColor=61DAFB&message=React%20Native&color=16171d)
+![Django](https://img.shields.io/static/v1?style=flat-square&logo=django&logoColor=white&label=&labelColor=092E20&message=Django&color=16171d)
 
 ### ⚙️ Services
 ![Web Development](https://img.shields.io/static/v1?style=flat-square&logo=html5&logoColor=white&label=&labelColor=E34F26&message=Web%20Development&color=16171d)
@@ -73,6 +76,7 @@ Feel free to reach out if you want to connect or collaborate!
 ![XJ76's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XJ76&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
 
 ![XJ76's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XJ76&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://zw.linkedin.com/in/joshua-j-smith-5338041b8)
