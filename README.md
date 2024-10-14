@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 [![XK76's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XJ76&show_icons=true&count_private=true&theme=radical)](https://github.com/XJ76)
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+JJ+Smith;Lets+Create+Something+Great!!)](https://git.io/typing-svg)
 
 🚀 I’m a Full Stack Software Engineer with a passion for creating innovative solutions.
