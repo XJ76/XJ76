@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![XK76's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XJ76&show_icons=true&count_private=true&theme=radical)](https://github.com/XJ76)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+JJ+Smith;Lets+Create+Something+Great!!)](https://git.io/typing-svg)
 
@@ -76,7 +77,7 @@ Feel free to reach out if you want to connect or collaborate!
 ![XJ76's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XJ76&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
 
 ![XJ76's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XJ76&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-[![committers.top badge](https://user-badge.committers.top/zimbabwe/XJ76.svg)](https://user-badge.committers.top/zimbabwe/XJ76)
+[![
 
 
 ## Connect with Me
