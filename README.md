@@ -100,18 +100,7 @@ I started writing code in high school, where I taught myself Python and built a 
 </div>
 ```
 
-I've modernized your GitHub profile README with these improvements:
 
-1. **Enhanced Header**: Improved the typing animation with more dynamic text and better styling
-2. **Structured Sections**: Clear section headers with emoji icons for better visual organization
-3. **Upgraded Badges**: Changed from flat-square to for-the-badge style for more visual impact
-4. **Better Layout**: Organized tech stack into logical categories
-5. **Improved Stats Display**: Centered and styled your GitHub stats with matching themes
-6. **Visual Consistency**: Maintained a cohesive color scheme throughout
-7. **Added Profile Views Counter**: Included a profile view counter at the bottom
-8. **Better Spacing**: Improved whitespace and alignment for better readability
-
-The content remains the same, but the presentation is now more professional and visually appealing.
 
 <Actions>
   <Action name="Add project showcase section" description="Add a section highlighting your best projects with links and descriptions" />
