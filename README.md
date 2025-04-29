@@ -91,7 +91,7 @@ I'm a passionate Full Stack Software Engineer who loves creating innovative solu
 
 ## ⚡ Fun Fact
 
-I started writing code in high school, where I taught myself Python and built a couple of Django apps.
+I started writing code when i was 16, where I taught myself Python and built a couple of Django apps.
 
 ---
 
