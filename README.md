@@ -44,17 +44,6 @@ I build scalable software — from intuitive UIs to high-performance backends an
 
 ---
 
-## 🔥 Featured Projects
-
-> *(Project links can be added — want help writing full case studies?)*
-
-- **Cloud Campus** — Multi-tenant school management system *(Founder / Lead Engineer)*
-- **Virtual Legalist** — AI-powered legal assistant
-- **Device Lock Platform** — Remote smartphone lock for installment plans
-- **Medical Imaging AI (Concept R&D)** — Early-stage cancer risk detection using CV/ML *(in progress)*
-
----
-
 ## 📈 GitHub Snapshot
 
 <div align="center">
