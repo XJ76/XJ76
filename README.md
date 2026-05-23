@@ -88,7 +88,7 @@ Production-grade digital streaming platform built end-to-end, including frontend
 
 ---
 
-## 🌍 Plats Master — Carbon Footprint & Carbon Credit Platform
+## 🌍 Plants Master — Carbon Footprint & Carbon Credit Platform
 Sustainability-focused platform designed for tracking carbon footprints, managing carbon credits, and maintaining transparent blockchain-based ledger systems.
 
 ### Highlights
