@@ -99,7 +99,7 @@ Sustainability-focused platform designed for tracking carbon footprints, managin
 - Enterprise-focused architecture
 - Data-driven sustainability tooling
 
-🔗 https://plats-master.com
+🔗 https://plants-master.com
 
 ---
 
