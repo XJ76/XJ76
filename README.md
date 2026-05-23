@@ -67,7 +67,6 @@
 - 🤖 Interested in AI engineering, automation, and backend architecture
 - 📊 Experienced with analytics, dashboards, and data workflows
 - 🚀 Passionate about solving real-world problems through technology
-- 💡 Started coding at 16 and never stopped building
 
 ---
 
