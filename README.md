@@ -5,15 +5,15 @@
 <h1 align="center">Hi 👋, I'm JJ Smith</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;AI+%26+Backend+Systems+Builder;JavaScript+%7C+Python+%7C+AWS+%7C+DevOps;Building+Scalable+Digital+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;AI+%26+Systems+Engineer;JavaScript+%7C+Python+%7C+AWS+%7C+DevOps;Building+Scalable+Digital+Products" />
 </p>
 
 <p align="center">
-  Full-Stack Software Engineer focused on scalable backend systems, modern web applications, and AI-powered solutions.
+  Full-Stack Software Engineer focused on scalable backend systems, modern web applications, cloud infrastructure, and intelligent platforms.
 </p>
 
 <p align="center">
-  I build production-ready software across fintech, SaaS, automation, and intelligent systems using JavaScript, Python, cloud infrastructure, and modern DevOps workflows.
+  I build production-ready systems across SaaS, fintech, media streaming, AI-powered platforms, and enterprise software using JavaScript, Python, cloud technologies, and modern DevOps workflows.
 </p>
 
 ---
@@ -38,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,firebase" />
 </p>
 
-### DevOps & Tools
+### DevOps & Infrastructure
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,nginx,linux,bash,powershell,git,githubactions" />
@@ -58,9 +58,9 @@
 
 # 🧠 About Me
 
-- 🔭 Building scalable full-stack systems & intelligent platforms
+- 🔭 Building scalable full-stack platforms & intelligent systems
+- ☁️ Experienced with cloud deployment, APIs, containers, and CI/CD
 - 🤖 Interested in AI engineering, automation, and backend architecture
-- ☁️ Working with cloud infrastructure, APIs, containers, and CI/CD
 - 📊 Experienced with analytics, dashboards, and data workflows
 - 🚀 Passionate about solving real-world problems through technology
 - 💡 Started coding at 16 and never stopped building
@@ -69,37 +69,33 @@
 
 # 📌 Featured Projects
 
-## ⚖️ Virtual Legalist
-AI-powered legal assistant platform developed alongside legal professionals and lawyers.
+## 🎬 Izwii — Streaming Platform
+Production-grade digital streaming platform built end-to-end, including frontend architecture, backend systems, authentication, media handling, subscription flows, and deployment infrastructure.
 
-### Core Features
-- Intelligent legal workflows
-- AI-assisted responses
-- Document handling systems
-- Modern scalable architecture
+### Highlights
+- Secure authentication & user management
+- Media streaming workflows
+- Subscription & content access systems
+- Responsive modern UI/UX
+- Scalable backend architecture
+- Full deployment & infrastructure management
 
----
-
-## 💳 Wyv Payments
-Backend payment infrastructure and transaction processing systems.
-
-### Stack
-- Node.js
-- Express
-- MongoDB
-- NGINX
-- AWS/VPS Infrastructure
+🔗 https://izwii.com
 
 ---
 
-## 🏫 Multi-Tenant School Management System
-Scalable SaaS school platform supporting multiple institutions with isolated tenant data.
+## 🌍 Plats Master — Carbon Footprint & Carbon Credit Platform
+Sustainability-focused platform designed for tracking carbon footprints, managing carbon credits, and maintaining transparent blockchain-based ledger systems.
 
-### Features
-- Row-based multi-tenancy
-- Role-based access control
-- Academic management
-- Finance & reporting modules
+### Highlights
+- Carbon emissions tracking
+- Carbon credit workflows
+- Blockchain ledger integrations
+- Analytics & reporting systems
+- Enterprise-focused architecture
+- Data-driven sustainability tooling
+
+🔗 https://plats-master.com
 
 ---
 
@@ -127,10 +123,10 @@ Scalable SaaS school platform supporting multiple institutions with isolated ten
 # 🎯 Current Focus
 
 - AI-integrated applications
-- Backend scalability & microservices
-- SaaS platforms
+- Backend scalability & distributed systems
+- SaaS architecture
 - DevOps & deployment automation
-- Cloud-native systems
+- Cloud-native infrastructure
 - Intelligent workflow systems
 
 ---
@@ -154,5 +150,5 @@ Scalable SaaS school platform supporting multiple institutions with isolated ten
 ---
 
 <p align="center">
-  <i>“Building software that scales, solves problems, and creates impact.”</i>
+  <i>Building software that scales, solves problems, and creates impact.</i>
 </p>
