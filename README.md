@@ -29,7 +29,7 @@
 ### Languages & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,django" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,react,nextjs,angular,nodejs,express,django" />
 </p>
 
 ### Databases & Cloud
@@ -42,6 +42,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,nginx,linux,bash,powershell,git,githubactions" />
+</p>
+
+<p align="center">
+  Turborepo • GraphQL • REST APIs • CI/CD • Microservices
 </p>
 
 ### AI / Data Engineering
